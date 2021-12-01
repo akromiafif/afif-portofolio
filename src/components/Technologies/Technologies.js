@@ -114,6 +114,7 @@ const Technologies = () => (
             OpenCV <br />
             ROS Framework <br />
             TensorFlow <br />
+            Pandas <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
