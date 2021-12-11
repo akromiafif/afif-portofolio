@@ -56,6 +56,7 @@ const Technologies = () => (
             Flask <br />
             Firebase <br />
             MongoDB <br />
+            Docker <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
