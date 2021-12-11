@@ -59,6 +59,26 @@ export const projects = [
     visit: "http://aksantara3301.herokuapp.com/",
     id: 3,
   },
+  {
+    title: "OpenCV Object Detection",
+    description:
+      "Object Detection using OpenCV for Tubitak International UAV Competition Bursa Turkey",
+    image: "/images/opencv.png",
+    tags: ["OpenCV", "C++"],
+    source: "https://github.com/akromiafif/Aksan_FWT",
+    visit: "https://youtu.be/8xOXFJ3LTh8",
+    id: 3,
+  },
+  {
+    title: "ROS Framework",
+    description:
+      "Developing and Simulating auto mode UAV for Tubitak International UAV Competition Bursa Turkey",
+    image: "/images/ros.png",
+    tags: ["ROS Framework", "C++"],
+    source: "https://github.com/akromiafif/Aksan_FWT",
+    visit: "https://youtu.be/cMgIBf1WReg",
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
