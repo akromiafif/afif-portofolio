@@ -26,7 +26,7 @@ export const projects = [
     image: "/images/fwt.png",
     tags: ["Electron JS", "Mavlink", "MongoDB"],
     source: "https://github.com/akromiafif/FWT_Instrument",
-    visit: "",
+    visit: "https://youtu.be/uaaQX4UkL6k",
     id: 2,
   },
   {
