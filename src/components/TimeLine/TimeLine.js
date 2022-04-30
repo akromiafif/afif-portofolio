@@ -67,9 +67,15 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Saya merupakan mahasiswa jurusan Teknik Informatika yang sedang menempuh
-        pendidikan di Institut Teknologi Bandung. Saya sangat senang untuk
-        mempelajari hal baru.
+        Afif is strong-willed, fast-learner, and effective Fullstack Developer
+        who is always thirsty for new knowledge and experience.He is currently
+        helping to deliver some products like Mobile Apps and Web Apps from
+        various project outside university. Outside of work, he loves to spend
+        his time to learn a new technologies like learning new web framework
+        (React, Angular, Vue) and mobile framework (Flutter and React Native)
+        and currently he also participating in International Competition for
+        developing UAV (Unmaned Aerial Vehicle) or Drone to compete with another
+        university from all around the world.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

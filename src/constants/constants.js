@@ -57,7 +57,7 @@ export const projects = [
     tags: ["AngularJS", "Mavlink", "MongoDB"],
     source: "https://github.com/akromiafif/GCS-WebApp",
     visit: "http://aksantara3301.herokuapp.com/",
-    id: 3,
+    id: 4,
   },
   {
     title: "OpenCV Object Detection",
@@ -67,7 +67,7 @@ export const projects = [
     tags: ["OpenCV", "C++"],
     source: "https://github.com/akromiafif/Aksan_FWT",
     visit: "https://youtu.be/8xOXFJ3LTh8",
-    id: 3,
+    id: 5,
   },
   {
     title: "ROS Framework",
@@ -77,7 +77,17 @@ export const projects = [
     tags: ["ROS Framework", "C++"],
     source: "https://github.com/akromiafif/Aksan_FWT",
     visit: "https://youtu.be/cMgIBf1WReg",
-    id: 3,
+    id: 6,
+  },
+  {
+    title: "Kanban Prosa AI",
+    description:
+      "Developing a kanban board for startup Prosa.ai in Bandung West Java, Indonesia",
+    image: "/images/prosaai.png",
+    tags: ["NextJS", "TailwindCSS"],
+    source: "https://github.com/akromiafif/prosai",
+    visit: "https://prosai.netlify.app/",
+    id: 7,
   },
 ];
 
