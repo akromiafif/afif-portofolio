@@ -37,7 +37,7 @@ export const projects = [
     tags: ["NEXT JS", "Laravel", "MySQL"],
     source: "https://github.com/afifakromi/lfm_frontend",
     visit: "https://ganffest2022.xyz/",
-    id: 2,
+    id: 3,
   },
   {
     title: "SiniTugasNu",
@@ -47,7 +47,7 @@ export const projects = [
     tags: ["Wordpress"],
     source: "https://www.sinitugasnu.com/",
     visit: "",
-    id: 3,
+    id: 4,
   },
   {
     title: "GCS Aksantara",
@@ -57,7 +57,7 @@ export const projects = [
     tags: ["AngularJS", "Mavlink", "MongoDB"],
     source: "https://github.com/akromiafif/GCS-WebApp",
     visit: "http://aksantara3301.herokuapp.com/",
-    id: 4,
+    id: 5,
   },
   {
     title: "OpenCV Object Detection",
@@ -67,7 +67,7 @@ export const projects = [
     tags: ["OpenCV", "C++"],
     source: "https://github.com/akromiafif/Aksan_FWT",
     visit: "https://youtu.be/8xOXFJ3LTh8",
-    id: 5,
+    id: 6,
   },
   {
     title: "ROS Framework",
@@ -77,7 +77,7 @@ export const projects = [
     tags: ["ROS Framework", "C++"],
     source: "https://github.com/akromiafif/Aksan_FWT",
     visit: "https://youtu.be/cMgIBf1WReg",
-    id: 6,
+    id: 7,
   },
   {
     title: "Kanban Prosa AI",
@@ -87,7 +87,17 @@ export const projects = [
     tags: ["NextJS", "TailwindCSS"],
     source: "https://github.com/akromiafif/prosai",
     visit: "https://prosai.netlify.app/",
-    id: 7,
+    id: 8,
+  },
+  {
+    title: "Simple Admin Panel",
+    description:
+      "Developing a simple admin panel for monitoring earnings, orders, and users activity.",
+    image: "/images/adminpanel.png",
+    tags: ["React JS", "Sass, SCSS"],
+    source: "https://github.com/akromiafif/admin-panel",
+    visit: "https://afif-admin-panel.netlify.app/",
+    id: 9,
   },
 ];
 
