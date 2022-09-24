@@ -99,6 +99,16 @@ export const projects = [
     visit: "https://afif-admin-panel.netlify.app/",
     id: 9,
   },
+  {
+    title: "Warehouse Management System",
+    description:
+      "Developing WMS (Warehouse Management System) for PT. Paragon Technology and Innovation and PT. Parama Global Inspira",
+    image: "/images/paragon.png",
+    tags: ["React JS", "NextJS", "Qore Database", "Typescript"],
+    source: "https://github.com/akromiafif/admin-panel",
+    visit: "https://magpie.paralabs.io/",
+    id: 9,
+  },
 ];
 
 export const TimeLineData = [
