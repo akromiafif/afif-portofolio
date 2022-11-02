@@ -10,6 +10,46 @@ export const projects = [
     id: 0,
   },
   {
+    title: "Kanban Prosa AI",
+    description:
+      "Developing a kanban board for startup Prosa.ai in Bandung West Java, Indonesia",
+    image: "/images/prosaai.png",
+    tags: ["NextJS", "TailwindCSS"],
+    source: "https://github.com/akromiafif/prosai",
+    visit: "https://prosai.netlify.app/",
+    id: 8,
+  },
+  {
+    title: "Simple Admin Panel",
+    description:
+      "Developing a simple admin panel for monitoring earnings, orders, and users activity.",
+    image: "/images/adminpanel.png",
+    tags: ["React JS", "Sass, SCSS"],
+    source: "https://github.com/akromiafif/admin-panel",
+    visit: "https://afif-admin-panel.netlify.app/",
+    id: 9,
+  },
+  {
+    title: "WMS Magpie",
+    description:
+      "Developing WMS (Warehouse Management System) for PT. Paragon Technology and Innovation and PT. Parama Global Inspira",
+    image: "/images/paragon.png",
+    tags: ["React JS", "NextJS", "Qore Database", "Typescript"],
+    source: "https://github.com/akromiafif/admin-panel",
+    visit: "https://magpie.paralabs.io/",
+    id: 9,
+  },
+  {
+    title: "Lyriks Music App",
+    description:
+      "Developing a simple music app that mimics Spotify with help of RapidAPI and React JS 18. In this project I'm also use a Geolocation API.",
+    image: "/images/lyriks.png",
+    tags: ["React JS", "TailwindCSS", "RapidAPI"],
+    source: "https://github.com/akromiafif/lyriks",
+    visit: "https://lyriks-afif.netlify.app/",
+    id: 10,
+  },
+  {
     title: "Arkavidia",
     description:
       "Arkavidia 7.0 adalah acara prestisius tahunan yang diselenggarakan oleh Himpunan Mahasiswa Informatika Institut Teknologi Bandung (HMIF ITB).",
@@ -18,6 +58,16 @@ export const projects = [
     source: "https://github.com/arkavidia-hmif/arkavidia-frontend-7.0",
     visit: "https://www.arkavidia.id/",
     id: 1,
+  },
+  {
+    title: "Ganesha Film Festival",
+    description:
+      "Ganesha Film Festival (Ganffest) adalah festival film dua tahunan dengan skala nasional yang dilaksanakan oleh Liga Film Mahasiswa ITB. ",
+    image: "/images/lfm.png",
+    tags: ["NEXT JS", "Laravel", "MySQL"],
+    source: "https://github.com/afifakromi/lfm_frontend",
+    visit: "https://ganffest.netlify.app/",
+    id: 3,
   },
   {
     title: "Flight Instrument",
@@ -29,16 +79,7 @@ export const projects = [
     visit: "https://youtu.be/uaaQX4UkL6k",
     id: 2,
   },
-  {
-    title: "Ganesha Film Festival",
-    description:
-      "Ganesha Film Festival (Ganffest) adalah festival film dua tahunan dengan skala nasional yang dilaksanakan oleh Liga Film Mahasiswa ITB. ",
-    image: "/images/lfm.png",
-    tags: ["NEXT JS", "Laravel", "MySQL"],
-    source: "https://github.com/afifakromi/lfm_frontend",
-    visit: "https://ganffest2022.xyz/",
-    id: 3,
-  },
+
   {
     title: "SiniTugasNu",
     description:
@@ -78,36 +119,6 @@ export const projects = [
     source: "https://github.com/akromiafif/Aksan_FWT",
     visit: "https://youtu.be/cMgIBf1WReg",
     id: 7,
-  },
-  {
-    title: "Kanban Prosa AI",
-    description:
-      "Developing a kanban board for startup Prosa.ai in Bandung West Java, Indonesia",
-    image: "/images/prosaai.png",
-    tags: ["NextJS", "TailwindCSS"],
-    source: "https://github.com/akromiafif/prosai",
-    visit: "https://prosai.netlify.app/",
-    id: 8,
-  },
-  {
-    title: "Simple Admin Panel",
-    description:
-      "Developing a simple admin panel for monitoring earnings, orders, and users activity.",
-    image: "/images/adminpanel.png",
-    tags: ["React JS", "Sass, SCSS"],
-    source: "https://github.com/akromiafif/admin-panel",
-    visit: "https://afif-admin-panel.netlify.app/",
-    id: 9,
-  },
-  {
-    title: "Warehouse Management System",
-    description:
-      "Developing WMS (Warehouse Management System) for PT. Paragon Technology and Innovation and PT. Parama Global Inspira",
-    image: "/images/paragon.png",
-    tags: ["React JS", "NextJS", "Qore Database", "Typescript"],
-    source: "https://github.com/akromiafif/admin-panel",
-    visit: "https://magpie.paralabs.io/",
-    id: 9,
   },
 ];
 

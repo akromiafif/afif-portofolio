@@ -8,10 +8,9 @@ import {
 import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
 
 const data = [
-  { number: 10, text: "Open Source Projects" },
+  { number: 12, text: "Open Source Projects" },
   { number: 2020, text: "Kontes Robot Terbang Indonesia" },
-  { number: 2021, text: "Tubitak UAV Inter Competition Turkey" },
-  // { number: 5000, text: "Github Stars" },
+  { number: 2021, text: "UAV International Competition" },
 ];
 
 const Acomplishments = () => (
