@@ -12,7 +12,7 @@ export const projects = [
   {
     title: "Kanban Prosa AI",
     description:
-      "Developing a kanban board for startup Prosa.ai in Bandung West Java, Indonesia",
+      "Developing a kanban board for startup Prosa.ai in Bandung West Java, Indonesia to manage easly a sprint project. With this kanban a Project Manager can arrange and plan the sprint planning.",
     image: "/images/prosaai.png",
     tags: ["NextJS", "TailwindCSS"],
     source: "https://github.com/akromiafif/prosai",
@@ -125,8 +125,8 @@ export const projects = [
 export const TimeLineData = [
   {
     year: 2017,
-    text: "Computer Engineering - Politeknik Elektronika Negeri Surabaya",
+    text: "Mobile Developer - Native, Flutter, React Native",
   },
-  { year: 2018, text: "Computer Science - Universitas Brawijaya" },
-  { year: 2019, text: "Computer Science - Institut Teknologi Bandung" },
+  { year: 2018, text: "Frontend Engineer - Angular JS, React JS, Vue JS" },
+  { year: 2019, text: "Backend Engineer - Laravel, Django REST, Golang" },
 ];
