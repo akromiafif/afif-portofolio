@@ -70,6 +70,16 @@ export const projects = [
     id: 3,
   },
   {
+    title: "Studyboard Education",
+    description:
+      "Study Board Education merupakan bimbingan belajar berbasis teknologi yang memiliki kapabilitas mengajar secara global untuk siswa SMA, pra-perguruan tinggi, dan mahasiswa. Didirikan pada bulan Juli 2020, Study Board Education kini telah beranggotakan 10 pemimpin terbaik yang siap mengubah pendidikan Indonesia.",
+    image: "/images/studyboard.png",
+    tags: ["NEXT JS", "Express JS", "MySQL"],
+    source: "https://github.com/Kontrakan-Quran/studyboard-frontend",
+    visit: "https://studyboardedu.com/",
+    id: 3,
+  },
+  {
     title: "Flight Instrument",
     description:
       "Ground Control Station for monitoring Unmaned Autonomous Vehicle (UAV) for Tubitak Internation Competition, Bursa Turkey ",
